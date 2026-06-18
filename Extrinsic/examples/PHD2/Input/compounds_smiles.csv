@@ -1,0 +1,6 @@
+SMILES
+COc1cc2c(cc1-c1cc3cc4ccoc4cc3oc1=O)OCO2
+COc1cc(O)c2c(c1)CCc1c-2ccc(OC)c1O
+COc1cc2c(c(OC)c1O)-c1cc(OC)c(OC)c(OC)c1CC2
+COc1cc2ccc3cccc(OC)c3c2cc1O
+COc1c(O)cc2c(ccc3cc(O)c(OC)c(OC)c32)c1OC

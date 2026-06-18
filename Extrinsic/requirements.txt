@@ -1,0 +1,8 @@
+pandas
+numpy
+polars
+tqdm
+pyyaml
+rdkit           
+openmm          # energy minimization
+pdbfixer        # PDB cleanup (PyPI build may be unavailable; prefer conda)
